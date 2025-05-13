@@ -21,7 +21,7 @@ Mario can move, jump, and shoot fireballs when in Super mode!
 - Visual Studio
 - Custom game loop and rendering logic
 
-## 🚀 How to Run
+## How to Run
 1. Clone or download the repository.
 2. Open the `super mario.exe` file in debug folder.
 
